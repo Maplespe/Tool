@@ -12,3 +12,5 @@ Used to add functions.It is mainly used to replace the save style file dialog bo
 Press F1 to open the help menu
 ## Note:
 After building the project, you need to manually modify "\Release\MWSettings.exe" to "MWSettings.dll"
+
+详细：https://winmoes.com/tools/5249.html
